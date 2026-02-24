@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Time Lapse",
+  "base_artist": "Poppin'Party",
+  "createdAt": "2026-02-24T11:51:34.637890Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Time-Lapse",
+      "artist": "Rainych",
+      "has_synced": true,
+      "path": "select/01_Time-Lapse_Rainych.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Time Lapse",
+      "artist": "TAEYEON",
+      "has_synced": true,
+      "path": "select/02_Time_Lapse_TAEYEON.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Time Lapse",
+      "artist": "TAEYEON",
+      "has_synced": true,
+      "path": "select/03_Time_Lapse_TAEYEON.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Time Lapse",
+      "artist": "NCT 127",
+      "has_synced": true,
+      "path": "select/04_Time_Lapse_NCT_127.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Time Lapse",
+      "artist": "Poppin'Party",
+      "has_synced": true,
+      "path": "select/05_Time_Lapse_Poppin'Party.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Time Lapse",
+      "artist": "Poppin'Party",
+      "has_synced": true,
+      "path": "select/06_Time_Lapse_Poppin'Party.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Time Lapse Lights",
+      "artist": "La prière",
+      "has_synced": true,
+      "path": "select/07_Time_Lapse_Lights_La_prière.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Time Lapse",
+      "artist": "Poppin' Party",
+      "has_synced": false,
+      "path": "select/pl_01_Time_Lapse_Poppin'_Party.txt"
+    }
+  ]
+}
